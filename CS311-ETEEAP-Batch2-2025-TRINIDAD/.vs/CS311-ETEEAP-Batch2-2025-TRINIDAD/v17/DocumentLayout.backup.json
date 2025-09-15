@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|c:\\users\\sabdom\\desktop\\eteeap\\computer programming 3\\cs311-eteeap-batch2-2025-trinidad\\cs311-eteeap-batch2-2025-trinidad\\frmaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|solutionrelative:cs311-eteeap-batch2-2025-trinidad\\frmaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\cs311-eteeap-batch2-2025-trinidad\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|solutionrelative:cs311-eteeap-batch2-2025-trinidad\\frmaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\cs311-eteeap-batch2-2025-trinidad\\frmaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|solutionrelative:cs311-eteeap-batch2-2025-trinidad\\frmaddaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\cs311-eteeap-batch2-2025-trinidad\\frmaddaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3605F002-20D9-47F4-B19B-ACEEE49EC49E}|CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD.csproj|solutionrelative:cs311-eteeap-batch2-2025-trinidad\\frmaddaccount.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0d88d125-84f9-49ef-ae2f-e54b55205e08}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAddAccount.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.Designer.cs",
+              "RelativeDocumentMoniker": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.Designer.cs",
+              "ToolTip": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.Designer.cs",
+              "RelativeToolTip": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.Designer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwEQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:02:11.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAddAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs",
+              "RelativeDocumentMoniker": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs",
+              "ToolTip": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs",
+              "RelativeToolTip": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T09:01:16.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs",
+              "RelativeDocumentMoniker": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs",
+              "ToolTip": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs [Design]",
+              "RelativeToolTip": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmAddAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:48:33.543Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmaccounts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmaccounts.cs",
+              "RelativeDocumentMoniker": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmaccounts.cs",
+              "ToolTip": "C:\\Users\\Sabdom\\Desktop\\ETEEAP\\Computer Programming 3\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmaccounts.cs [Design]",
+              "RelativeToolTip": "CS311-ETEEAP-Batch2-2025-TRINIDAD\\frmaccounts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T08:34:12.488Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
